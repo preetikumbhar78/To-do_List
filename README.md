@@ -1,3 +1,3 @@
 # To-do_List
-To-do List using Html, css and Javascript
+The To-Do List Project is a web application developed using HTML, CSS and JavaScript.It Provides a simple interface for managing tasks and organizing daily activities.
 
